@@ -1,0 +1,59 @@
+
+* {
+  font-family: 'Cinzel';
+  font-weight: bold;
+}
+
+html {
+  background: url(http://www.pptbackgrounds.org/uploads/tic-tac-toe-backgrounds-wallpapers.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+button {
+    width: 75px;
+    height: 75px;
+    background: white;
+    border: 2px solid;
+    cursor: pointer;
+    margin: 0px;
+}
+
+div {
+    text-align: center;
+}
+
+.container, table {
+    margin: 20px auto;
+}
+
+h1 {
+  text-align: center;
+  font-size: 65px;
+  margin-top: 30px;
+  margin-bottom: 15px;
+}
+
+button {
+  font-size: 25px;
+}
+
+.game-status {
+  font-size: 25px;
+}
+
+a {
+  font-size: 25px;
+  color: black;
+}
+
+.footer {
+  position:absolute;
+   bottom:0px;
+   width: 100%;
+   margin: 0;
+   height: 75px;
+
+}
